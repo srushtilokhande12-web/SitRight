@@ -1,0 +1,8 @@
+{
+  "sensitivity": 5,
+  "alert_delay_secs": 10,
+  "cooldown_secs": 60,
+  "sound_enabled": true,
+  "notifications_enabled": true,
+  "good_threshold": 75
+}
